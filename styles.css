@@ -26,6 +26,7 @@ p.caption{
 }
 img{
 width: 450px;
+align-items: center;
 }
 blockquote{
     border-left: 5px solid;
